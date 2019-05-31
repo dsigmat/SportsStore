@@ -3,7 +3,7 @@ using SportsStore.Models;
 using SportsStore.Models.Pages;
 
 namespace SportsStore.Controllers {
-
+    //commit
     public class HomeController : Controller {
         private IRepository repository;
         private ICategoryRepository catRepository;
